@@ -1,0 +1,19 @@
+
+[
+    {
+      "question": "What is the capital city of Ethiopia?",
+      "answer": "Addis Ababa",
+      "choices": ["Addis Ababa", "Dire Dawa", "Mekelle", "Bahir Dar"]
+    },
+    {
+      "question": "What is the traditional Ethiopian food?",
+      "answer": "Injera",
+      "choices": ["Injera", "Fufu", "Sushi", "Pizza"]
+    },
+    {
+      "question": "Which language is widely spoken in Ethiopia?",
+      "answer": "Amharic",
+      "choices": ["Amharic", "Oromo", "Tigrinya", "English"]
+    }
+  ]
+  
